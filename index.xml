@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MEBLOG</title>
+    <link>mebasoglu.github.io/</link>
+    <description>Recent content on MEBLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    
+	<atom:link href="mebasoglu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

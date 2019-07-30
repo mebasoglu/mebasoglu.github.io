@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>mebasoglu.github.io/posts/deneme/</loc>
+    <loc>https://mebasoglu.github.io/posts/deneme/</loc>
     <lastmod>2019-07-27T17:58:35+03:00</lastmod>
   </url>
   
   <url>
-    <loc>mebasoglu.github.io/</loc>
-    <lastmod>2019-07-27T17:58:35+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>mebasoglu.github.io/posts/</loc>
+    <loc>https://mebasoglu.github.io/</loc>
     <lastmod>2019-07-27T17:58:35+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>mebasoglu.github.io/posts/yeni/</loc>
+    <loc>https://mebasoglu.github.io/posts/</loc>
+    <lastmod>2019-07-27T17:58:35+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mebasoglu.github.io/posts/yeni/</loc>
     <lastmod>2019-07-27T17:35:36+03:00</lastmod>
   </url>
   
   <url>
-    <loc>mebasoglu.github.io/posts/merhaba-dunya/</loc>
+    <loc>https://mebasoglu.github.io/posts/merhaba-dunya/</loc>
     <lastmod>2019-07-27T17:24:40+03:00</lastmod>
   </url>
   
   <url>
-    <loc>mebasoglu.github.io/categories/</loc>
+    <loc>https://mebasoglu.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>mebasoglu.github.io/tags/</loc>
+    <loc>https://mebasoglu.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

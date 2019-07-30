@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MEBLOG</title>
-    <link>mebasoglu.github.io/</link>
+    <link>https://mebasoglu.github.io/</link>
     <description>Recent content on MEBLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>tr-tr</language>
     <lastBuildDate>Sat, 27 Jul 2019 17:58:35 +0300</lastBuildDate>
     
-	<atom:link href="mebasoglu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mebasoglu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deneme</title>
-      <link>mebasoglu.github.io/posts/deneme/</link>
+      <link>https://mebasoglu.github.io/posts/deneme/</link>
       <pubDate>Sat, 27 Jul 2019 17:58:35 +0300</pubDate>
       
-      <guid>mebasoglu.github.io/posts/deneme/</guid>
+      <guid>https://mebasoglu.github.io/posts/deneme/</guid>
       <description>Denemeee</description>
     </item>
     
     <item>
       <title>Yeni</title>
-      <link>mebasoglu.github.io/posts/yeni/</link>
+      <link>https://mebasoglu.github.io/posts/yeni/</link>
       <pubDate>Sat, 27 Jul 2019 17:35:36 +0300</pubDate>
       
-      <guid>mebasoglu.github.io/posts/yeni/</guid>
+      <guid>https://mebasoglu.github.io/posts/yeni/</guid>
       <description>Yeni yazı.</description>
     </item>
     
     <item>
       <title>Merhaba Dunya</title>
-      <link>mebasoglu.github.io/posts/merhaba-dunya/</link>
+      <link>https://mebasoglu.github.io/posts/merhaba-dunya/</link>
       <pubDate>Sat, 27 Jul 2019 17:24:40 +0300</pubDate>
       
-      <guid>mebasoglu.github.io/posts/merhaba-dunya/</guid>
+      <guid>https://mebasoglu.github.io/posts/merhaba-dunya/</guid>
       <description>Yaşıyor! Merhabalar efendim.</description>
     </item>
     

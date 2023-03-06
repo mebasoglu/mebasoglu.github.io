@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics:
+googleAnalytics: G-XRJL40LHVD
 
 minify:
   disableXML: true
@@ -88,9 +88,9 @@ params:
     - name: github
       url: "https://github.com/mebasoglu"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-XRJL40LHVD"
   #   bing:
   #     SiteVerificationTag: "XYZabc"
   #   yandex:

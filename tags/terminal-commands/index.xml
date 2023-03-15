@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>MEBLOG</title>
-    <link>https://mebasoglu.github.io/</link>
-    <description>Recent content on MEBLOG</description>
+    <title>terminal commands on MEBLOG</title>
+    <link>https://mebasoglu.github.io/tags/terminal-commands/</link>
+    <description>Recent content in terminal commands on MEBLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 23:00:59 +0300</lastBuildDate><atom:link href="https://mebasoglu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 23:00:59 +0300</lastBuildDate><atom:link href="https://mebasoglu.github.io/tags/terminal-commands/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Commands to Interact with a GNU/Linux Server</title>
       <link>https://mebasoglu.github.io/posts/commands-to-interact/</link>
@@ -19,17 +19,6 @@ ssh -X my_user@my_server # ...auth... nautilus Finding your way in terminal pwd 
 pwd # /home/my_user/my_awesome_dir To change directory use cd:
 cd path-to-go To list contents of a directiory:</description>
     </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://mebasoglu.github.io/posts/hello-world/</link>
-      <pubDate>Mon, 06 Mar 2023 17:15:33 +0300</pubDate>
-      
-      <guid>https://mebasoglu.github.io/posts/hello-world/</guid>
-      <description>Welcome to yet another blog site. Lorem ipsum dolar sit amet.</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

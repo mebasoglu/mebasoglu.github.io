@@ -5,6 +5,34 @@
     <link>https://mebasoglu.github.io/tags/</link>
     <description>Recent content in Tags on MEBLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mebasoglu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2023 23:00:59 +0300</lastBuildDate><atom:link href="https://mebasoglu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>system administration</title>
+      <link>https://mebasoglu.github.io/tags/system-administration/</link>
+      <pubDate>Mon, 06 Mar 2023 23:00:59 +0300</pubDate>
+      
+      <guid>https://mebasoglu.github.io/tags/system-administration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal commands</title>
+      <link>https://mebasoglu.github.io/tags/terminal-commands/</link>
+      <pubDate>Mon, 06 Mar 2023 23:00:59 +0300</pubDate>
+      
+      <guid>https://mebasoglu.github.io/tags/terminal-commands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNU/Linux</title>
+      <link>https://mebasoglu.github.io/tags/gnu/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mebasoglu.github.io/tags/gnu/linux/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

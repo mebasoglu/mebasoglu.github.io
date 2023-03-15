@@ -2,21 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mebasoglu.github.io/posts/hello-world/</loc>
-    <lastmod>2023-03-06T17:15:33+03:00</lastmod>
-  </url><url>
     <loc>https://mebasoglu.github.io/</loc>
-    <lastmod>2023-03-06T17:15:33+03:00</lastmod>
+    <lastmod>2023-03-06T23:00:59+03:00</lastmod>
   </url><url>
     <loc>https://mebasoglu.github.io/posts/</loc>
+    <lastmod>2023-03-06T23:00:59+03:00</lastmod>
+  </url><url>
+    <loc>https://mebasoglu.github.io/posts/commands-to-interact/</loc>
+    <lastmod>2023-03-06T23:00:59+03:00</lastmod>
+  </url><url>
+    <loc>https://mebasoglu.github.io/tags/system-administration/</loc>
+    <lastmod>2023-03-06T23:00:59+03:00</lastmod>
+  </url><url>
+    <loc>https://mebasoglu.github.io/tags/</loc>
+    <lastmod>2023-03-06T23:00:59+03:00</lastmod>
+  </url><url>
+    <loc>https://mebasoglu.github.io/tags/terminal-commands/</loc>
+    <lastmod>2023-03-06T23:00:59+03:00</lastmod>
+  </url><url>
+    <loc>https://mebasoglu.github.io/posts/hello-world/</loc>
     <lastmod>2023-03-06T17:15:33+03:00</lastmod>
   </url><url>
     <loc>https://mebasoglu.github.io/archives/</loc>
   </url><url>
     <loc>https://mebasoglu.github.io/categories/</loc>
   </url><url>
-    <loc>https://mebasoglu.github.io/search/</loc>
+    <loc>https://mebasoglu.github.io/tags/gnu/linux/</loc>
   </url><url>
-    <loc>https://mebasoglu.github.io/tags/</loc>
+    <loc>https://mebasoglu.github.io/search/</loc>
   </url>
 </urlset>

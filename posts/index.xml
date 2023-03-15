@@ -6,7 +6,20 @@
     <description>Recent content in Posts on MEBLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 17:15:33 +0300</lastBuildDate><atom:link href="https://mebasoglu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 23:00:59 +0300</lastBuildDate><atom:link href="https://mebasoglu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Commands to Interact with a GNU/Linux Server</title>
+      <link>https://mebasoglu.github.io/posts/commands-to-interact/</link>
+      <pubDate>Mon, 06 Mar 2023 23:00:59 +0300</pubDate>
+      
+      <guid>https://mebasoglu.github.io/posts/commands-to-interact/</guid>
+      <description>Connecting to the server To connect to the server:
+ssh my_user@my_server If you have a desktop environment installed on your server, you can use -X flag. This enables launching GUI apps from the server on your local PC. Here is an example:
+ssh -X my_user@my_server # ...auth... nautilus Finding your way in terminal pwd command shows where you are.
+pwd # /home/my_user/my_awesome_dir To change directory use cd:
+cd path-to-go To list contents of a directiory:</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://mebasoglu.github.io/posts/hello-world/</link>
